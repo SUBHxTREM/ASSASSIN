@@ -1,6 +1,6 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
+  "name": "THE ASSASSIN BOT",
+  "description": "The ASSASSIN made by @SUBHxTREM special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @SUBHxD",
   "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "success_url": "https://t.me/MafiaBot_Support",
+  "repository": "https://github.com/SUBHxTREM/ASSASSIN/",
+  "website": "https://github.com/SUBHxTREM/ASSASSIN/",
+  "success_url": "https://t.me/SUBHxD",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @SUBHxD. By default it is ASSASSIN User",
+      "value": "",
       "required": false
     },
     "ABUSE": {
@@ -34,7 +34,7 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈ASSASSIN IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO ASSASSIN😈",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -77,7 +77,7 @@
     },
     "MAFIABOT_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "-1001174481876"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
@@ -85,21 +85,21 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value": "",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "enteryourappname",
+      "value": "",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": ""
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": ""
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
@@ -108,7 +108,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Put here your favorite emoji to make your bot cool.",
-      "value": "⚡",
+      "value": "✨",
       "required": true
     },
     "PM_DATA": {
